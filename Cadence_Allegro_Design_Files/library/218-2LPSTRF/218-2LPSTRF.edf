@@ -1,0 +1,289 @@
+
+(EDIF
+  (rename &218_45_2LPSTRF "218-2LPSTRF")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 06 07 07 29 15)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename &218_45_2LPSTRF "218-2LPSTRF")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename &218_45_2LPSTRF "218-2LPSTRF")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "SW")
+          (property (rename VALUE "Value") (string "218-2LPSTRF"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &4 "4")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -40000 -30000) (pt 40000 30000)))
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -36062 10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -40000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -40000 10000)
+                    (pt -20000 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -36062 -10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -40000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -40000 -10000)
+                    (pt -20000 -10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &3)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 36062 -10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 -10000)
+                    (pt 20000 -9999)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &4)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 36062 10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 10000)
+                    (pt 20000 10000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 10000) (pt -5000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 10000) (pt 2500 15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 10000) (pt 5000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 -10000) (pt -5000 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 -10000) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -10000) (pt 5000 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 30000) (pt -20000 -30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 -30000) (pt 20000 -30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -30000) (pt 20000 30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 30000) (pt -20000 30000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20017 40034))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20027 -50068))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "SW_218-2LPSTRF"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "218-2LPSTRF"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "CTS Components"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "0.71 USD"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Switch DIP OFF ON SPST 2 Recessed Slide 0.025A 24VDC Gull Wing SMD T/R
+"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

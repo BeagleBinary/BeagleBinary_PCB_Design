@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : WCS038B.brd                                   )
+(    Software Version : 17.2S008                                      )
+(    Date/Time        : Thu Mar 12 10:19:49 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in ARC SEGMENT center = (211.652 279.950)
+  class = ETCH
+  subclass = TOP 
+  ERROR(SPMHUT-144): Illegal arc specification.
+
+ERROR: in ARC SEGMENT center = (219.562 262.800)
+  class = ETCH
+  subclass = TOP 
+  ERROR(SPMHUT-144): Illegal arc specification.
+
+ERROR: in ARC SEGMENT center = (238.625 261.402)
+  class = ETCH
+  subclass = TOP 
+  ERROR(SPMHUT-144): Illegal arc specification.
+
+WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+
+1 warnings, 3 errors detected, 0 errors could be fixed.

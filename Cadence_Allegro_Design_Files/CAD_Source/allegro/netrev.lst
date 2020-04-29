@@ -1,0 +1,424 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : WCS038B.brd                                   )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Thu Mar 05 18:14:12 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         '\\PRISM.NAS.GATECH.EDU\ESHUVAEV3\ECE\DESKTOP\PCB_DESIGN_(3.3.2020)\PCB_DESIGN_(2.13.2020)\CAD_SOURCE\allegro'
+Design Directory:            '//PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro'
+Old design name:             '//prism.nas.gatech.edu/eshuvaev3/ECE/Desktop/PCB_design_(3.3.2020)/PCB_design_(2.13.2020)/CAD_Source/version/WCS038B.brd'
+New design name:             '//PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/WCS038B.brd'
+
+CmdLine: netrev.exe -y 1 -i \\PRISM.NAS.GATECH.EDU\ESHUVAEV3\ECE\DESKTOP\PCB_DESIGN_(3.3.2020)\PCB_DESIGN_(2.13.2020)\CAD_SOURCE\allegro \\prism.nas.gatech.edu\eshuvaev3\ECE\Desktop\PCB_design_(3.3.2020)\PCB_design_(2.13.2020)\CAD_Source\version\WCS038B.brd \\PRISM.NAS.GATECH.EDU\ESHUVAEV3\ECE\DESKTOP\PCB_DESIGN_(3.3.2020)\PCB_DESIGN_(2.13.2020)\CAD_SOURCE\allegro\WCS038B.brd
+
+------ Preparing to read pst files ------
+
+Starting to read //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/pstchip.dat 
+   Finished reading //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/pstchip.dat (00:00:00.15)
+Starting to read //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/pstxprt.dat 
+   Finished reading //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/pstxprt.dat (00:00:00.02)
+Starting to read //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/pstxnet.dat 
+   Finished reading //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(3.3.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/pstxnet.dat (00:00:00.03)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC1005X60A2M' used by RefDes C108 for device 'CAPACITOR_CAPC1005X60A2N_DISCRE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC1005X60A2M' used by RefDes C129 for device 'CAPACITOR_CAPC1005X60A2N_DISC_1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC1005X60A2M' used by RefDes C130 for device 'CAPACITOR_CAPC1005X60A2N_DISC_2' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC1005X60A2M' used by RefDes C131 for device 'CAPACITOR_CAPC1005X60A2N_DISC_3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC1005X60A2M' used by RefDes C143 for device 'CAPACITOR_CAPC1005X60A2N_DISC_4' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC3225X280A2M' used by RefDes C486 for device 'CAPACITOR_CAPC3225X280A2N_DISCR' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOD3716X135BN' used by RefDes CR15 for device 'DIODE_SCHOTTKY_SOD3716X135N_IC_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1608X55A2M' used by RefDes R46 for device 'RESISTOR_RESC1608X55A2N_DISCRET' not found in PSMPATH or must be "dbdoctor"ed.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPMP7343X200M' used by RefDes C112 for device 'CAPACITOR_POL_CAPMP7343X200N_DI' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R94 for device 'RESISTOR_RESC1005X40A2N_DISCR_9' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SON50P200X200X80-9A2M' used by RefDes U47 for device 'IC_PM_TPS259530_WSON8_SON50P200' not found in PSMPATH or must be "dbdoctor"ed.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SON50P100X145X65-6M' used by RefDes CR6 for device 'DIODE_TPD4E004_SON6_SON50P100X1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC1608X90A2M' used by RefDes C111 for device 'CAPACITOR_CAPC1608X90A2N_DISCRE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC2012X150A2M' used by RefDes C117 for device 'CAPACITOR_CAPC2012X150A2N_DISCR' not found in PSMPATH or must be "dbdoctor"ed.
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC2012X150A2M' used by RefDes C146 for device 'CAPACITOR_CAPC2012X150A2N_DIS_1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC0603X35B2M' used by RefDes C6 for device 'CAPACITOR_CAPC0603X35B2N_DISCRE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DIO_BZX84JM' used by RefDes CR14 for device 'DIODE_ZENER_DIO_BZX84JN_IC_3.9V' not found in PSMPATH or must be "dbdoctor"ed.
+
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LEDC1708X67M' used by RefDes CR4 for device 'LED_LEDC1708X67N_IC_LS L296-P2Q' not found in PSMPATH or must be "dbdoctor"ed.
+
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LEDC1707X65M' used by RefDes CR5 for device 'LED_LEDC1707X65N_IC_LPL296-J2L2' not found in PSMPATH or must be "dbdoctor"ed.
+
+#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'FIL_BLM18HE152SN1DM' used by RefDes FL5 for device 'FILTER_2PIN_FIL_BLM18HE152SN1DN' not found in PSMPATH or must be "dbdoctor"ed.
+
+#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'MOLEX_1051640001_B2M' used by RefDes J6 for device 'CONN_USB_MICRO_B_2MH_MOLEX_1051' not found in PSMPATH or must be "dbdoctor"ed.
+
+#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'FILC2012X110A2M' used by RefDes L332 for device 'INDUCTOR_FILC2012X110A2N_DISCRE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'GRADCONN_BB02HJ221KB160300_A2A' used by RefDes P4 for device 'CONN_HEADER_2X11_P_S_GRADCONN_B' not found in PSMPATH or must be "dbdoctor"ed.
+
+#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SAMTEC_FTSH10501FDVK_A2M' used by RefDes P5 for device 'CONN_HEADER_2X5_SAMTEC_FTSH-105' not found in PSMPATH or must be "dbdoctor"ed.
+
+#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'TAGCONNECT_TC2050IDCNL_A2M' used by RefDes P8 for device 'CONN_IDC_TC2050-IDC-NL_TAGCONNE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#26  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R101 for device 'RESISTOR_RESC1005X40A2N_DISCRET' not found in PSMPATH or must be "dbdoctor"ed.
+
+#27  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R102 for device 'RESISTOR_RESC1005X40A2N_DISCR_1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#28  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R103 for device 'RESISTOR_RESC1005X40A2N_DISCR_2' not found in PSMPATH or must be "dbdoctor"ed.
+
+#29  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R354 for device 'RESISTOR_RESC1005X40A2N_DISCR_3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#30  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R116 for device 'RESISTOR_RESC1005X40A2N_DISCR_4' not found in PSMPATH or must be "dbdoctor"ed.
+
+#31  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R121 for device 'RESISTOR_RESC1005X40A2N_DISCR_5' not found in PSMPATH or must be "dbdoctor"ed.
+
+#32  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC3216X75A2M' used by RefDes R123 for device 'RESISTOR_RESC3216X75A2N_DISCRET' not found in PSMPATH or must be "dbdoctor"ed.
+
+#33  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC3225X75A2M' used by RefDes R125 for device 'RESISTOR_RESC3225X75A2N_DISCRET' not found in PSMPATH or must be "dbdoctor"ed.
+
+#34  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R127 for device 'RESISTOR_RESC1005X40A2N_DISCR_6' not found in PSMPATH or must be "dbdoctor"ed.
+
+#35  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R130 for device 'RESISTOR_RESC1005X40A2N_DISCR_7' not found in PSMPATH or must be "dbdoctor"ed.
+
+#36  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X40A2M' used by RefDes R137 for device 'RESISTOR_RESC1005X40A2N_DISCR_8' not found in PSMPATH or must be "dbdoctor"ed.
+
+#37  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC0603X35B2M' used by RefDes R140 for device 'RESISTOR_RESC0603X35B2N_DISCRET' not found in PSMPATH or must be "dbdoctor"ed.
+
+#38  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC0603X35B2M' used by RefDes R82 for device 'RESISTOR_RESC0603X35B2N_DISCR_1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#39  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC0603X35B2M' used by RefDes R84 for device 'RESISTOR_RESC0603X35B2N_DISCR_2' not found in PSMPATH or must be "dbdoctor"ed.
+
+#40  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC0603X35B2M' used by RefDes R90 for device 'RESISTOR_RESC0603X35B2N_DISCR_3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#41  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC0603X35B2M' used by RefDes R93 for device 'RESISTOR_RESC0603X35B2N_DISCR_4' not found in PSMPATH or must be "dbdoctor"ed.
+
+#42  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SW_1188E1K2V_A2M' used by RefDes SW3 for device 'SWITCH_TACT_V2_SW_1188E1K2V_A_1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#43  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFNFC40P180X260X55-16A2M' used by RefDes U10 for device 'IC_XCVR_SN74AVC4T245_UQFN16_2_Q' not found in PSMPATH or must be "dbdoctor"ed.
+
+#44  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFP50P700X700X120-32A2M' used by RefDes U35 for device 'IC_ADC_ADS127L01_QFP32_0_QFP50P' not found in PSMPATH or must be "dbdoctor"ed.
+
+#45  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOIC127P600X175-8A2M' used by RefDes U36 for device 'IC_OPAMP_INA118U_SO8_SOIC127P60' not found in PSMPATH or must be "dbdoctor"ed.
+
+#46  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFNFCP50P200X200X80-10A2M' used by RefDes U37 for device 'IC_OPAMP_THS4551_QFN10_QFNFCP50' not found in PSMPATH or must be "dbdoctor"ed.
+
+#47  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOP65P490X110-8A2M' used by RefDes U40 for device 'IC_REF_REF6025_VSSOP8_SOP65P490' not found in PSMPATH or must be "dbdoctor"ed.
+
+#48  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SON65P300X300X100-9AM' used by RefDes U42 for device 'IC_PM_TPS79601_SON8_SON65P300X3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#49  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT65P210X110-5A2M' used by RefDes U45 for device 'IC_OPAMP_OPA314_SC70-5_SOT65P21' not found in PSMPATH or must be "dbdoctor"ed.
+
+#50  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'OSCSC254P320X500X130-4A2M' used by RefDes Y5 for device 'XTAL_GEN_EN_V1_OSCSC254P320X500' not found in PSMPATH or must be "dbdoctor"ed.
+
+#51  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'FIL_LFD21829MDKED859_A2M' used by RefDes FL3 for device 'FILTER_LFD21829_0_FIL_LFD21829M' not found in PSMPATH or must be "dbdoctor"ed.
+
+#52  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'INDC1005X60C2M' used by RefDes L31 for device 'INDUCTOR_HOR_1_2_INDC1005X60C2N' not found in PSMPATH or must be "dbdoctor"ed.
+
+#53  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'INDC1005X60C2M' used by RefDes L33 for device 'INDUCTOR_HOR_1_2_INDC1005X60C_1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#54  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFNFC50P700X700X100-49A2M' used by RefDes U1 for device 'IC_RF_CC1352_QFN48_QFNFC50P700X' not found in PSMPATH or must be "dbdoctor"ed.
+
+#55  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'OSCCC200X160X45-4A2M' used by RefDes Y2 for device 'XTAL_4PINS_1_3_OSCCC200X160X45-' not found in PSMPATH or must be "dbdoctor"ed.
+
+#56  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'HUSTSAN_SMA10V21TGGM' used by RefDes J7 for device 'CONN_COAX_1_4_HUSTSAN_SMA10V21T' not found in PSMPATH or must be "dbdoctor"ed.
+
+#57  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'INDC2012X150A2M' used by RefDes L331 for device 'INDUCTOR_INDC2012X150A2N_DISCRE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#58  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAPC1608X100A2M' used by RefDes C341 for device 'CAPACITOR_CAPC1608X100A2N_DISCR' not found in PSMPATH or must be "dbdoctor"ed.
+
+#59  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT95P280X145-5A2M' used by RefDes U44 for device 'IC_PM_TPS73101_SOT23-5_SOT95P28' not found in PSMPATH or must be "dbdoctor"ed.
+
+#60  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC3246X70A2M' used by RefDes R107 for device 'RESISTOR_RESC3246X70A2N_DISCRET' not found in PSMPATH or must be "dbdoctor"ed.
+
+#61  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1608X55M' used by RefDes R52 for device 'RESISTOR_RESC1608X55N_DISCRETE_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#62  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SON50P300X300X100-11A2M' used by RefDes U33 for device 'IC_SWITCH_TS3A24159_SON10_SON50' not found in PSMPATH or must be "dbdoctor"ed.
+
+#63  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT95P280X145-5A2M' used by RefDes U43 for device 'IC_PM_LP5907-1_8_SOT23-5_SOT95P' not found in PSMPATH or must be "dbdoctor"ed.
+
+#64  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFNFC40P200X200X40-14A2M' used by RefDes U39 for device 'IC_SWITCH_TS3A4751_QFN14_QFNFC4' not found in PSMPATH or must be "dbdoctor"ed.
+
+#65  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RESC1005X50A2M' used by RefDes R122 for device 'RESISTOR_RESC1005X50A2N_DISCRET' not found in PSMPATH or must be "dbdoctor"ed.
+
+#66  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT95P280X145-5A2M' used by RefDes U41 for device 'IC_OPAMP_OPA320_SOT23-5_SOT95P2' not found in PSMPATH or must be "dbdoctor"ed.
+
+#67  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFNWB50P500X500X100-33DM' used by RefDes U15 for device 'IC_PROC_USB3300_QFN32_QFNWB50P5' not found in PSMPATH or must be "dbdoctor"ed.
+
+#68  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOP50P310X90-8M' used by RefDes U34 for device 'IC_LOGIC_SN74LVC2G74_VSSOP8_SOP' not found in PSMPATH or must be "dbdoctor"ed.
+
+#69  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'OSCCC250X320X100-4BM' used by RefDes Y3 for device 'XTAL_4_OSCCC250X320X100-4BN_IC_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#70  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'OSCCC250X320X70-4AM' used by RefDes Y4 for device 'XTAL_4_OSCCC250X320X70-4AN_IC_2' not found in PSMPATH or must be "dbdoctor"ed.
+
+#71  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFN50P150X150X60-8M' used by RefDes CR7 for device 'DIODE_TVS_TPD6E004_QFN8_V1_QFN5' not found in PSMPATH or must be "dbdoctor"ed.
+
+#72  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'MURATA_MM58292700RJ4_A2M' used by RefDes P12 for device 'CONN_COAX_1_1_P_2MH_V1_MURATA_M' not found in PSMPATH or must be "dbdoctor"ed.
+
+#73  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SON50P300X200X60-9B2M' used by RefDes U4 for device 'IC_FLASH_MX25R8035F_USON8_SON50' not found in PSMPATH or must be "dbdoctor"ed.
+
+#74  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'GRADCONN_BB02HC031KB1603000_A2A' used by RefDes P10 for device 'CONN_HEADER_3_P_S_GRADCONN_BB02' not found in PSMPATH or must be "dbdoctor"ed.
+
+#75  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SW_1188E1K2V_A2M' used by RefDes SW1 for device 'SWITCH_TACT_V2_SW_1188E1K2V_A2N' not found in PSMPATH or must be "dbdoctor"ed.
+
+#76  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'GRADCONN_BB02HJ041KB1603000_A2A' used by RefDes P6 for device 'CONN_HEADER_2X2_P_GRADCONN_BB02' not found in PSMPATH or must be "dbdoctor"ed.
+
+#77  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SAMTEC_SSQ11023LD_A2A' used by RefDes J1 for device 'CONN_HEADER_2X10_J_S_V1_SAMTEC_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#78  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'QFP40P1600X1600X120-128M' used by RefDes U5 for device 'IC_PROC_TM4C1294NCPDT_TQFP128_Q' not found in PSMPATH or must be "dbdoctor"ed.
+
+#79  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOT65P210X110-5M' used by RefDes U6 for device 'IC_REF_LM4040_SC70-5_SOT65P210X' not found in PSMPATH or must be "dbdoctor"ed.
+
+#80  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LEDC1707X65M' used by RefDes CR1 for device 'LED_LEDC1707X65L_LPL296-J2L2-25' not found in PSMPATH or must be "dbdoctor"ed.
+
+#81  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'XTAL_FC-135M' used by RefDes Y1 for device 'CRYSTAL_XTAL_FC-135N_32.768KHZ_' not found in PSMPATH or must be "dbdoctor"ed.
+
+#82  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LEDC1708X67M' used by RefDes CR2 for device 'LED_LEDC1708X67L_LS L296-P2Q2-1' not found in PSMPATH or must be "dbdoctor"ed.
+
+#83  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'FIL_BLM18HE152SN1DM' used by RefDes FL1 for device 'FILTER_2PIN_FIL_BLM18HE152SN1DL' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/appl/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  //prism.nas.gatech.edu/eshuvaev3/ECE/Desktop/PCB_design_(3.3.2020)/PCB_design_(2.13.2020)/library/105164-0001/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/appl/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/appl/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/appl/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  //prism.nas.gatech.edu/eshuvaev3/ECE/Desktop/PCB_design_(3.3.2020)/PCB_design_(2.13.2020)/library/105164-0001/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/appl/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/appl/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/appl/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 5 18:14:12 2020
+   DESIGN NAME : 'WCS038B'
+   PACKAGING ON Aug  8 2016 18:41:50
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 83 warnings detected
+
+cpu time      0:05:42
+elapsed time  0:00:03
+

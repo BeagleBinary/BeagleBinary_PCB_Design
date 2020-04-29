@@ -1,0 +1,18 @@
+\t (00:00:01) allegro 17.2 S008 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Feb 04 10:21:28 2020
+\t (00:00:01)         Host=1446ECE023 User=eshuvaev3 Pid=8824 CPUs=8
+\t (00:00:01) CmdLine= c:\appl\cadence\spb_17.2\tools\bin\allegro.exe P:\Senior Project\PCB design (1.30.2020)\library\61303621121 (2)\61303621121.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:03) fillin yes 
+\d (00:00:03) Design opened: P:/Senior Project/PCB design (1.30.2020)/library/61303621121 (2)/61303621121.dra
+\i (00:00:03) trapsize 12094
+\i (00:00:03) trapsize 12370
+\i (00:00:03) trapsize 12370
+\i (00:00:04) shapeedit 
+\i (00:00:06) exit 
+\e (00:00:06) Do you want to save the changes you made to 61303621121.dra?
+\i (00:00:07) fillin yes 
+\t (00:00:08) Symbol '61303621121.psm' created.
+\t (00:00:08)     Journal end - Tue Feb 04 10:21:35 2020

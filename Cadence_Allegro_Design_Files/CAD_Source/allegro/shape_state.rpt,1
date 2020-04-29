@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : WCS038B.brd                                   )
+(    Software Version : 17.2S008                                      )
+(    Date/Time        : Tue Mar 10 10:04:07 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 42
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+       State: No Etch      Point on shape: (215.000 255.900)  Net: TARGET_VDD

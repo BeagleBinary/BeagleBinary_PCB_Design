@@ -1,0 +1,80 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Micro-USB:105164-0001 J?
+U 1 1 5E83531B
+P 2150 4000
+F 0 "J?" H 2380 4046 50  0000 L CNN
+F 1 "105164-0001" H 2380 3955 50  0000 L CNN
+F 2 "MOLEX_105164-0001" H 2150 4000 50  0001 L BNN
+F 3 "molex" H 2150 4000 50  0001 L BNN
+F 4 "B" H 2150 4000 50  0001 L BNN "Field4"
+F 5 "Manufacturer recommendations" H 2150 4000 50  0001 L BNN "Field5"
+	1    2150 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Pin_Header:61303621121 J?
+U 1 1 5E835C42
+P 5250 4300
+F 0 "J?" H 5250 5467 50  0000 C CNN
+F 1 "61303621121" H 5250 5376 50  0000 C CNN
+F 2 "61303621121" H 5250 4300 50  0001 L BNN
+F 3 "" H 5250 4300 50  0001 C CNN
+	1    5250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Pin_Header:61303621121 J?
+U 1 1 5E837AC8
+P 7700 4300
+F 0 "J?" H 7700 5467 50  0000 C CNN
+F 1 "61303621121" H 7700 5376 50  0000 C CNN
+F 2 "61303621121" H 7700 4300 50  0001 L BNN
+F 3 "" H 7700 4300 50  0001 C CNN
+	1    7700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L USB-A:292303-1 J?
+U 1 1 5E83C82B
+P 3500 1750
+F 0 "J?" H 3830 1746 50  0000 L CNN
+F 1 "292303-1" H 3830 1655 50  0000 L CNN
+F 2 "TE_292303-1" H 3500 1750 50  0001 L BNN
+F 3 "292303-1" H 3500 1750 50  0001 L BNN
+F 4 "https://www.te.com/usa-en/product-292303-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 3500 1750 50  0001 L BNN "Field4"
+F 5 "Connector" H 3500 1750 50  0001 L BNN "Field5"
+F 6 "Compliant" H 3500 1750 50  0001 L BNN "Field6"
+F 7 "2 mm[.078 in]" H 3500 1750 50  0001 L BNN "Field7"
+F 8 "4" H 3500 1750 50  0001 L BNN "Field8"
+	1    3500 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Barrel_Jack:PJ-102A J?
+U 1 1 5E83D4B9
+P 7400 1450
+F 0 "J?" H 7395 1790 50  0000 C CNN
+F 1 "PJ-102A" H 7395 1699 50  0000 C CNN
+F 2 "CUI_PJ-102A" H 7400 1450 50  0001 L BNN
+F 3 "CUI INC" H 7400 1450 50  0001 L BNN
+F 4 "Manufacturer recommendations" H 7400 1450 50  0001 L BNN "Field4"
+F 5 "1.03" H 7400 1450 50  0001 L BNN "Field5"
+	1    7400 1450
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

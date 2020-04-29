@@ -1,0 +1,17 @@
+\t (00:00:02) allegro 17.2 S008 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Mar 05 15:56:51 2020
+\t (00:00:02)         Host=C257ECE027 User=eshuvaev3 Pid=17404 CPUs=4
+\t (00:00:02) CmdLine= c:\appl\cadence\spb_17.2\tools\bin\allegro.exe \\prism.nas.gatech.edu\eshuvaev3\ECE\Desktop\PCB_design_(3.3.2020)\PCB_design_(2.13.2020)\library\105164-0001\MOLEX_105164-0001.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:03) fillin yes 
+\d (00:00:03) Design opened: //prism.nas.gatech.edu/eshuvaev3/ECE/Desktop/PCB_design_(3.3.2020)/PCB_design_(2.13.2020)/library/105164-0001/MOLEX_105164-0001.dra
+\i (00:00:03) trapsize 2815
+\i (00:00:03) trapsize 2879
+\i (00:00:03) trapsize 4079
+\i (00:00:03) generaledit 
+\i (00:00:08) pick grid -5.4358 19.4635
+\t (00:00:08) last pick:  -5.0800 20.3200
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Thu Mar 05 15:57:03 2020

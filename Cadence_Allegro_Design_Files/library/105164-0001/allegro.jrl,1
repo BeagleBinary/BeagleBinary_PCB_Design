@@ -1,0 +1,65 @@
+\t (00:00:02) allegro 17.2 S008 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Mar 05 15:26:56 2020
+\t (00:00:02)         Host=C257ECE027 User=eshuvaev3 Pid=22684 CPUs=4
+\t (00:00:02) CmdLine= c:\appl\cadence\spb_17.2\tools\bin\allegro.exe \\prism.nas.gatech.edu\eshuvaev3\ECE\Desktop\PCB_design_(3.3.2020)\PCB_design_(2.13.2020)\library\105164-0001\MOLEX_105164-0001.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:10) fillin yes 
+\d (00:00:10) Design opened: //prism.nas.gatech.edu/eshuvaev3/ECE/Desktop/PCB_design_(3.3.2020)/PCB_design_(2.13.2020)/library/105164-0001/MOLEX_105164-0001.dra
+\i (00:00:10) trapsize 2815
+\i (00:00:10) trapsize 2879
+\i (00:00:10) trapsize 4079
+\i (00:00:11) generaledit 
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -3.4776 -1.9945
+\i (00:00:11) trapsize 2040
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -3.4776 -1.9944
+\i (00:00:11) trapsize 1020
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -3.4776 -1.9944
+\i (00:00:12) trapsize 510
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -3.4776 -1.9944
+\i (00:00:12) trapsize 255
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -3.4775 -1.9944
+\i (00:00:12) trapsize 127
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -3.4622 -2.0046
+\i (00:00:12) trapsize 255
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -3.4622 -2.0046
+\i (00:00:12) trapsize 510
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -3.4621 -2.0046
+\i (00:00:12) trapsize 1020
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -3.4009 -2.0045
+\i (00:00:13) trapsize 2040
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -3.4010 -2.0045
+\i (00:00:13) trapsize 4079
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -2.7433 -2.3209
+\i (00:00:14) trapsize 2040
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -2.7432 -2.3208
+\i (00:00:14) trapsize 1020
+\i (00:00:23) pick grid 11.5961 4.3491
+\t (00:00:23) last pick:  12.7000 5.0800
+\i (00:00:24) exit 
+\t (00:00:25)     Journal end - Thu Mar 05 15:27:19 2020

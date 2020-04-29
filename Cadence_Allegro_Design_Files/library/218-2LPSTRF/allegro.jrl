@@ -1,0 +1,30 @@
+\t (00:00:02) allegro 17.2 S008 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Feb 04 09:59:14 2020
+\t (00:00:02)         Host=1446ECE023 User=eshuvaev3 Pid=14868 CPUs=8
+\t (00:00:02) CmdLine= c:\appl\cadence\spb_17.2\tools\bin\allegro.exe P:\Senior Project\PCB design (1.30.2020)\library\218-2LPSTRF\SW_218-2LPSTRF.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:05) fillin yes 
+\d (00:00:05) Design opened: P:/Senior Project/PCB design (1.30.2020)/library/218-2LPSTRF/SW_218-2LPSTRF.dra
+\i (00:00:05) trapsize 2763
+\i (00:00:05) trapsize 2887
+\i (00:00:05) trapsize 2887
+\i (00:00:06) shapeedit 
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out -0.7454 -1.4882
+\i (00:02:01) trapsize 2887
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out -0.7454 -1.4882
+\i (00:02:01) trapsize 2887
+\i (00:02:03) pick grid -2.1891 -0.1023
+\t (00:02:03) last pick:  -1.9050 0.0000
+\i (00:02:03) prepopup -2.1891 -0.1023
+\i (00:02:04) pick grid -6.2893 0.1287
+\t (00:02:04) last pick:  -6.3500 0.0000
+\i (00:02:07) exit 
+\e (00:02:07) Do you want to save the changes you made to SW_218-2LPSTRF.dra?
+\i (00:02:08) fillin no 
+\t (00:02:08)     Journal end - Tue Feb 04 10:01:20 2020

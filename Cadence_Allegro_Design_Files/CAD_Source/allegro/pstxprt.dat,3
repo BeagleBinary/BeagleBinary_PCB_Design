@@ -1,0 +1,3645 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-05-2020 at 15:01:58 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='WCS038B';
+ POST_TIME='Aug  8 2016 18:41:50';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'ANTENNA_PCB_ANTENNA_DN024N_DISC':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2079012@MECHANIC.ANTENNA_PCB.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2079012@mechanic.\antenna_pcb.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2079012@mechanic.\antenna_pcb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944819@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944819@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944819@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'CAPACITOR_CAPC1005X60A2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944381@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944381@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944381@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3037509@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3037509@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3037509@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265421@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265421@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265421@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944397@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944397@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944397@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAPACITOR_CAPC1608X90A2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944429@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944429@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944429@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAPACITOR_POL_CAPMP7343X200N_DI':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944445@CAPACITOR.CAPACITOR_POL.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944445@capacitor.\capacitor_pol.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944445@capacitor.\capacitor_pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAPACITOR_CAPC1608X100A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944281@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944281@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944281@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986065@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986065@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986065@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C115 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986279@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986279@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986279@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986331@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986331@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986331@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'CAPACITOR_CAPC2012X150A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986347@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986347@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986347@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986539@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986539@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986539@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986729@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986729@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986729@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_CAPC1005X60B2N_DISC_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265467@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265467@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265467@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986745@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986745@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986745@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'CAPACITOR_CAPC2012X150A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986761@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986761@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986761@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'CAPACITOR_CAPC2012X150A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986777@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986777@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986777@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'CAPACITOR_CAPC1005X60B2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986837@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986837@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986837@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987177@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987177@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987177@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987009@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987009@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987009@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987125@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987125@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987125@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987145@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987145@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987145@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987357@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987357@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987357@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAPACITOR_CAPC1005X60A2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987717@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987717@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987717@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_CAPC1005X60B2N_DISC_6':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265627@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265627@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265627@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAPACITOR_CAPC1005X60A2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987733@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987733@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987733@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'CAPACITOR_CAPC1005X60A2N_DISC_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987765@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987765@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987765@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987637@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987637@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987637@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988057@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988057@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988057@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988153@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988153@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988153@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAPACITOR_CAPC1005X60B2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988509@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988509@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988509@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C136 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988309@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988309@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988309@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C137 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988325@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988325@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988325@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C138 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988341@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988341@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988341@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988679@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988679@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988679@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR_CAPC1005X60B2N_DISC_6':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265643@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265643@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265643@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C140 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989061@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989061@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989061@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C141 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988947@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988947@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988947@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C142 'CAPACITOR_CAPC2012X150A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989173@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989173@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989173@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C143 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989239@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989239@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989239@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C144 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989469@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989469@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989469@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C145 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989393@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989393@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989393@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C146 'CAPACITOR_CAPC2012X150A2N_DIS_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989133@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989133@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989133@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C147 'CAPACITOR_CAPC2012X150A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989519@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989519@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989519@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C149 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989627@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989627@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989627@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2278988@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2278988@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2278988@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C151 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992149@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992149@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992149@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C152 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992165@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992165@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992165@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C153 'CAPACITOR_CAPC1005X60B2N_DISC_7':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992197@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992197@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992197@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C154 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992213@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992213@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992213@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C155 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992229@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992229@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992229@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C156 'CAPACITOR_CAPC1608X100A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992245@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992245@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992245@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C157 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993049@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993049@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993049@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C158 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993085@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993085@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993085@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C159 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993101@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993101@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993101@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C160 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993117@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993117@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993117@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C161 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993133@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993133@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993133@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C162 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993169@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993169@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993169@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C163 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993185@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993185@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993185@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C164 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993065@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993065@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993065@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C165 'CAPACITOR_CAPC1608X100A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3046663@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3046663@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins3046663@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C166 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992789@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992789@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992789@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C168 'CAPACITOR_CAPC2012X150A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3046749@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3046749@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins3046749@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C169 'CAPACITOR_CAPC1005X60B2N_DISC_7':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992645@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992645@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992645@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C170 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988783@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988783@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988783@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C171 'CAPACITOR_CAPC1608X100A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992285@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992285@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992285@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C172 'CAPACITOR_CAPC1005X60B2N_DISC_7':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992333@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992333@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992333@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C174 'CAPACITOR_CAPC1608X100A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992365@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992365@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992365@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C175 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992301@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992301@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992301@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941703@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941703@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941703@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR_CAPC1005X60B2N_DISC_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265691@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265691@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265691@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C220 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1020803@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1020803@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1020803@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C221 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021011@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021011@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021011@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C231 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021155@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021155@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021155@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3030967@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3030967@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins3030967@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941719@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941719@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941719@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1130302@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1130302@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1130302@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAPACITOR_CAPC1005X60B2N_DISC_8':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265865@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265865@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265865@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR_CAPC1005X60B2N_DISC_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265739@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265739@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265739@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAPACITOR_CAPC1005X60B2N_DIS_10':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265813@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265813@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265813@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C331 'CAPACITOR_CAPC1608X100A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021531@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021531@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021531@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAPACITOR_CAPC1005X60B2N_DIS_11':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265997@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265997@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265997@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C341 'CAPACITOR_CAPC1608X100A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3096509@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3096509@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins3096509@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C342 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1095437@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1095437@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1095437@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAPACITOR_CAPC1005X60B2N_DIS_12':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2266013@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2266013@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2266013@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C351 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021123@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021123@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021123@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAPACITOR_CAPC1005X60B2N_DISC_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265913@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265913@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265913@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAPACITOR_CAPC1005X60B2N_DISC_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3030931@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3030931@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins3030931@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941335@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941335@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941335@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941351@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941351@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941351@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941735@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941735@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941735@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941367@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941367@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941367@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAPACITOR_CAPC1005X60B2N_DIS_10':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2266065@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2266065@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2266065@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942469@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942469@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942469@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943093@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943093@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943093@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAPACITOR_CAPC1005X60B2N_DISC_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943109@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943109@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943109@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C441 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1020843@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1020843@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1020843@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943125@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943125@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943125@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C451 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021419@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021419@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021419@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943641@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943641@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943641@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAPACITOR_CAPC1005X60B2N_DISC_7':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944249@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944249@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944249@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944217@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944217@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944217@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C481 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021471@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021471@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021471@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C482 'CAPACITOR_CAPC1005X60B2N_DISC_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2078208@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2078208@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2078208@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C483 'CAPACITOR_CAPC1005X60B2N_DISC_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3029963@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3029963@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins3029963@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C484 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3047555@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3047555@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins3047555@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C485 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3048597@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3048597@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins3048597@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C486 'CAPACITOR_CAPC3225X280A2N_DISCR':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3036619@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3036619@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins3036619@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAPACITOR_CAPC1005X60A2N_DISC_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944265@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944265@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944265@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944321@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944321@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944321@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_CAPC0603X35B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942733@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942733@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942733@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_CAPC1005X60B2N_DISC_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942453@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942453@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942453@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2775776@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2775776@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2775776@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2775836@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2775836@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2775836@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776272@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776272@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776272@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776232@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776232@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776232@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776842@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776842@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776842@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776810@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776810@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776810@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAPACITOR_CAPC0603X35B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942685@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942685@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942685@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAPACITOR_CAPC0603X35B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942701@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942701@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942701@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_CAPC1005X60B2N_DISC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944337@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944337@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944337@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAPACITOR_CAPC0603X35B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942717@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942717@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942717@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1020915@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1020915@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1020915@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAPACITOR_CAPC0603X35B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941913@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941913@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941913@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAPACITOR_CAPC0603X35B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941897@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941897@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941897@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAPACITOR_CAPC1005X60B2N_DIS_13':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941881@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941881@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941881@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAPACITOR_CAPC1005X60B2N_DIS_13':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941945@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941945@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941945@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAPACITOR_CAPC0603X35B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941929@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941929@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941929@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942593@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942593@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942593@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942609@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942609@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942609@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944803@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944803@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944803@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAPACITOR_CAPC1005X60B2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1020971@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1020971@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1020971@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR1 'LED_LEDC1707X65L_LPL296-J2L2-25':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1159409@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1159409@optoelectronics.\led.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1159409@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR14 'DIODE_ZENER_DIO_BZX84JN_IC_3.9V':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992381@DIODE.DIODE_ZENER.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992381@diode.\diode_zener.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992381@diode.\diode_zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR15 'DIODE_SCHOTTKY_SOD3716X135N_IC_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3044194@DIODE.DIODE_SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3044194@diode.\diode_schottky.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3044194@diode.\diode_schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR2 'LED_LEDC1708X67L_LS L296-P2Q2-1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1159333@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1159333@optoelectronics.\led.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1159333@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR4 'LED_LEDC1708X67N_IC_LS L296-P2Q':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941571@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941571@optoelectronics.\led.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941571@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR5 'LED_LEDC1707X65N_IC_LPL296-J2L2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941557@OPTOELECTRONICS.LED.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941557@optoelectronics.\led.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941557@optoelectronics.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR6 'DIODE_TPD4E004_SON6_SON50P100X1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2998353@DIODE.DIODE_TPD4E004_SON6.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2998353@diode.\diode_tpd4e004_son6.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2998353@diode.\diode_tpd4e004_son6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR7 'DIODE_TVS_TPD6E004_QFN8_V1_QFN5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2777386@DIODE.DIODE_TVS_TPD6E004_QFN8_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2777386@diode.\diode_tvs_tpd6e004_qfn8_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2777386@diode.\diode_tvs_tpd6e004_qfn8_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR8 'DIODE_TVS_TPD6E004_QFN8_V1_QFN5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2777358@DIODE.DIODE_TVS_TPD6E004_QFN8_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2777358@diode.\diode_tvs_tpd6e004_qfn8_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2777358@diode.\diode_tvs_tpd6e004_qfn8_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDU1 'FIDMARK_FID127X142_IO_FIDU_1.27':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027255@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027255@pcb.\fidmark.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027255@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDU2 'FIDMARK_FID127X142_IO_FIDU_1.27':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027265@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027265@pcb.\fidmark.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027265@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDU3 'FIDMARK_FID127X142_IO_FIDU_1.27':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027275@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027275@pcb.\fidmark.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027275@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDU4 'FIDMARK_FID127X142_IO_FIDU_1.27':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027285@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027285@pcb.\fidmark.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027285@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDU5 'FIDMARK_FID127X142_IO_FIDU_1.27':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027295@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027295@pcb.\fidmark.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027295@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDU6 'FIDMARK_FID127X142_IO_FIDU_1.27':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027305@PCB.FIDMARK.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027305@pcb.\fidmark.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027305@pcb.\fidmark.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL1 'FILTER_2PIN_FIL_BLM18HE152SN1DL':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021379@FILTER.FILTER_2PIN.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021379@filter.\filter_2pin.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021379@filter.\filter_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL2 'FILTER_2PIN_FIL_BLM18HE152SN1DN':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943909@FILTER.FILTER_2PIN.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943909@filter.\filter_2pin.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943909@filter.\filter_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL3 'FILTER_LFD21829_0_FIL_LFD21829M':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2275227@LAUNCHXL-CC1352R1.FILTER_LFD21829_0.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2275227@\launchxl-cc1352r1\.\filter_lfd21829_0.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2275227@\launchxl-cc1352r1\.\filter_lfd21829_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL4 'FILTER_2PIN_FIL_BLM18HE152SN1DN':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992721@FILTER.FILTER_2PIN.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992721@filter.\filter_2pin.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992721@filter.\filter_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL5 'FILTER_2PIN_FIL_BLM18HE152SN1DN':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3046328@FILTER.FILTER_2PIN.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3046328@filter.\filter_2pin.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins3046328@filter.\filter_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN_HEADER_2X10_J_S_V1_SAMTEC_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1170303@CONNECTOR.CONN_HEADER_2X10_J_S_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1170303@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1170303@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 '1818_61303621121_1818':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3120764@61303621121.1818.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3120764@\61303621121\.\1818.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3120764@\61303621121\.\1818.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 '292303-1_TE_292303-1_292303-1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3120885@292303-1.292303-1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3120885@\292303-1\.\292303-1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3120885@\292303-1\.\292303-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CONN_USB_MICRO_B_2MH_MOLEX_1051':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3147190@CONNECTOR.CONN_USB_MICRO_B_2MH.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3147190@connector.\conn_usb_micro_b_2mh.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3147190@connector.\conn_usb_micro_b_2mh.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN_HEADER_2X10_J_S_V1_SAMTEC_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1176428@CONNECTOR.CONN_HEADER_2X10_J_S_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1176428@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1176428@connector.\conn_header_2x10_j_s_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CONN_USB_MICRO_B_2MH_MOLEX_1051':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943577@CONNECTOR.CONN_USB_MICRO_B_2MH.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943577@connector.\conn_usb_micro_b_2mh.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943577@connector.\conn_usb_micro_b_2mh.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CONN_COAX_1_4_HUSTSAN_SMA10V21T':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2078743@CONNECTOR.CONN_COAX_1_4.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2078743@connector.\conn_coax_1_4.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2078743@connector.\conn_coax_1_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 '3PIN_POWER_JACK_CUI_PJ-102A_3PI':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3120305@PJ-102A.3PIN_POWER_JACK.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3120305@\pj-102a\.\3pin_power_jack.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3120305@\pj-102a\.\3pin_power_jack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 '1818_61303621121_1818':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3120525@61303621121.1818.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3120525@\61303621121\.\1818.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3120525@\61303621121\.\1818.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L11 'INDUCTOR_HOR_1_2_INDC1005X60D2N':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265511@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265511@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265511@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L12 'INDUCTOR_HOR_1_2_INDC1005X60D_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265451@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265451@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265451@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L13 'INDUCTOR_HOR_1_2_INDC1005X60D_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265527@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265527@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265527@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_HOR_1_2_INDC1005X60D_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265543@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265543@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265543@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L21 'INDUCTOR_HOR_1_2_INDC1005X60D_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265611@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265611@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265611@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L31 'INDUCTOR_HOR_1_2_INDC1005X60C2N':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265793@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265793@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265793@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L32 'INDUCTOR_HOR_1_2_INDC1005X60D_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265881@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265881@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265881@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L33 'INDUCTOR_HOR_1_2_INDC1005X60C_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265777@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265777@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265777@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L331 'INDUCTOR_INDC2012X150A2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021311@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021311@inductor.\inductor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021311@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L332 'INDUCTOR_FILC2012X110A2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986085@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986085@inductor.\inductor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986085@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L333 'INDUCTOR_FILC2012X110A2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986159@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986159@inductor.\inductor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986159@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L334 'INDUCTOR_FILC2012X110A2N_DISCRE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986591@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986591@inductor.\inductor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986591@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L34 'INDUCTOR_HOR_1_2_INDC1005X60D_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265897@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265897@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265897@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L41 'INDUCTOR_HOR_1_2_INDC1005X60C2N':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265961@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265961@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265961@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L42 'INDUCTOR_HOR_1_2_INDC1005X60C_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2265981@INDUCTOR.INDUCTOR_HOR_1_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2265981@inductor.\inductor_hor_1_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2265981@inductor.\inductor_hor_1_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LBL2 'TI_LOGO_V1_TI_LOGO_1_MECHANICAL':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027053@PCB.TI_LOGO_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027053@pcb.\ti_logo_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027053@pcb.\ti_logo_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ LBL3 'CE_LABEL_V1_CE_MARKING_MECHANIC':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027065@PCB.CE_LABEL_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027065@pcb.\ce_label_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027065@pcb.\ce_label_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ LBL4 'LABEL_FOR_EVALUATOIN_ONLY_LABEL':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027171@PCB.LABEL_FOR_EVALUATOIN_ONLY.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027171@pcb.\label_for_evaluatoin_only.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027171@pcb.\label_for_evaluatoin_only.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ LBL5 'TRASH_V2_TRASH_7MM_MECHANICAL_T':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027183@PCB.TRASH_V2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027183@pcb.\trash_v2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027183@pcb.\trash_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ LBL6 'ESD_LABEL_ESD_LABEL_5X5_MECHANI':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027195@PCB.ESD_LABEL.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027195@pcb.\esd_label.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027195@pcb.\esd_label.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M1 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026779@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026779@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026779@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M10 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026869@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026869@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026869@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M11 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026879@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026879@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026879@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M12 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026889@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026889@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026889@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M13 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026899@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026899@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026899@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M14 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026909@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026909@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026909@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M15 'MECH_SPACERS_SUPPORT_V1_MECH_DC':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027207@MECHANIC.MECH_SPACERS_SUPPORT_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027207@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027207@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M16 'MECH_SPACERS_SUPPORT_V1_MECH_DC':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027219@MECHANIC.MECH_SPACERS_SUPPORT_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027219@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027219@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M17 'MECH_SPACERS_SUPPORT_V1_MECH_DC':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027231@MECHANIC.MECH_SPACERS_SUPPORT_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027231@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027231@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M18 'MECH_SPACERS_SUPPORT_V1_MECH_DC':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027243@MECHANIC.MECH_SPACERS_SUPPORT_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027243@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027243@mechanic.\mech_spacers_support_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M2 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026789@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026789@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026789@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M3 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026799@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026799@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026799@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M4 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026809@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026809@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026809@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M5 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026819@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026819@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026819@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M6 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026829@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026829@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026829@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M7 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026839@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026839@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026839@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M8 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026849@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026849@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026849@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ M9 'MECH_SHUNT_JUMPER_V1_SAMTEC_SNT':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3026859@MECHANIC.MECH_SHUNT_JUMPER_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3026859@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3026859@mechanic.\mech_shunt_jumper_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ MH1 'HOLE_PTH_MTG320_380_IO_HOLE_3.2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027077@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027077@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027077@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'HOLE_PTH_MTG320_380_IO_HOLE_3.2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027091@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027091@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027091@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'HOLE_PTH_MTG320_380_IO_HOLE_3.2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027105@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027105@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027105@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'HOLE_PTH_MTG320_380_IO_HOLE_3.2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027119@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027119@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027119@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH5 'HOLE_PTH_MTG110_170_IO_HOLE_1.1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027133@PCB.HOLE_PTH.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027133@pcb.\hole_pth.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027133@pcb.\hole_pth.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'CONN_HEADER_3_P_S_GRADCONN_BB02':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1320923@CONNECTOR.CONN_HEADER_3_P_S.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1320923@connector.\conn_header_3_p_s.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1320923@connector.\conn_header_3_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P10 'CONN_HEADER_3_P_S_GRADCONN_BB02':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2775920@CONNECTOR.CONN_HEADER_3_P_S.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2775920@connector.\conn_header_3_p_s.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2775920@connector.\conn_header_3_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P11 'CONN_COAX_1_1_P_2MH_V1_MURATA_M':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1429113@CONNECTOR.CONN_COAX_1_1_P_2MH_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1429113@connector.\conn_coax_1_1_p_2mh_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1429113@connector.\conn_coax_1_1_p_2mh_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P12 'CONN_COAX_1_1_P_2MH_V1_MURATA_M':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2076608@CONNECTOR.CONN_COAX_1_1_P_2MH_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2076608@connector.\conn_coax_1_1_p_2mh_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2076608@connector.\conn_coax_1_1_p_2mh_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'CONN_HEADER_3_P_S_GRADCONN_BB02':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1321147@CONNECTOR.CONN_HEADER_3_P_S.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1321147@connector.\conn_header_3_p_s.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1321147@connector.\conn_header_3_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P4 'CONN_HEADER_2X11_P_S_GRADCONN_B':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776166@CONNECTOR.CONN_HEADER_2X11_P_S.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776166@connector.\conn_header_2x11_p_s.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776166@connector.\conn_header_2x11_p_s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P5 'CONN_HEADER_2X5_SAMTEC_FTSH-105':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776914@CONNECTOR.CONN_HEADER_2X5.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776914@connector.\conn_header_2x5.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776914@connector.\conn_header_2x5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P6 'CONN_HEADER_2X2_P_GRADCONN_BB02':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1180937@CONNECTOR.CONN_HEADER_2X2_P.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1180937@connector.\conn_header_2x2_p.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1180937@connector.\conn_header_2x2_p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P7 'CONN_HEADER_2X5_SAMTEC_FTSH-105':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776952@CONNECTOR.CONN_HEADER_2X5.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776952@connector.\conn_header_2x5.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776952@connector.\conn_header_2x5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P8 'CONN_IDC_TC2050-IDC-NL_TAGCONNE':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2940741@CONNECTOR.CONN_IDC_TC2050-IDC-NL.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2940741@connector.\conn_idc_tc2050-idc-nl.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2940741@connector.\conn_idc_tc2050-idc-nl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PCB1 'PCB_V2_TI_MCUXX_MECHANICAL_WCS0':;
+
+SECTION_NUMBER -1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027041@PCB.PCB_V2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027041@pcb.\pcb_v2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page7_ins3027041@pcb.\pcb_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RESC1608X55N_DISCRETE_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1801200@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1801200@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1801200@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'RESISTOR_RESC1005X40B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987845@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987845@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987845@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'RESISTOR_RESC1005X40A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987409@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987409@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987409@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'RESISTOR_RESC1005X40A2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987425@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987425@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987425@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'RESISTOR_RESC1005X40A2N_DISCR_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987473@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987473@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987473@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'RESISTOR_RESC1005X40A2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987489@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987489@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987489@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987513@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987513@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987513@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'RESISTOR_RESC1005X40B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988169@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988169@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988169@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'RESISTOR_RESC3246X70A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987617@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987617@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987617@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'RESISTOR_RESC1005X40B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987825@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987825@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987825@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'RESISTOR_RESC1005X40A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987865@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987865@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987865@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RESC1005X40B2N_DISCR_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1105517@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1105517@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1105517@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'RESISTOR_RESC1005X40A2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987885@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987885@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987885@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'RESISTOR_RESC1005X40B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987905@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987905@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987905@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'RESISTOR_RESC1005X40A2N_DISCR_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987925@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987925@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987925@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'RESISTOR_RESC1005X40A2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987941@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987941@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987941@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988129@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988129@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988129@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'RESISTOR_RESC1005X40A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988185@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988185@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988185@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'RESISTOR_RESC1005X40A2N_DISCR_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988357@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988357@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988357@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988285@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988285@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988285@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988385@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988385@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988385@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988453@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988453@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988453@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'RESISTOR_RESC1005X40A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988611@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988611@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988611@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R121 'RESISTOR_RESC1005X40A2N_DISCR_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989033@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989033@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989033@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R122 'RESISTOR_RESC1005X50A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989417@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989417@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989417@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R123 'RESISTOR_RESC3216X75A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989255@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989255@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989255@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R125 'RESISTOR_RESC3225X75A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989485@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989485@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989485@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R126 'RESISTOR_RESC1005X40B2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989433@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989433@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989433@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R127 'RESISTOR_RESC1005X40A2N_DISCR_6':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989697@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989697@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989697@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R128 'RESISTOR_RESC1005X40A2N_DISCR_6':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989713@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989713@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989713@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R129 'RESISTOR_RESC1005X40A2N_DISCR_6':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989729@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989729@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989729@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R130 'RESISTOR_RESC1005X40A2N_DISCR_7':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989643@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989643@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989643@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R131 'RESISTOR_RESC1005X40B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989753@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989753@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989753@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R132 'RESISTOR_RESC1005X40B2N_DISCR_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992181@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992181@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992181@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R133 'RESISTOR_RESC1005X40B2N_DISCR_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992577@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992577@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992577@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R134 'RESISTOR_RESC1005X40A2N_DISCR_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993153@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993153@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993153@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R135 'RESISTOR_RESC1005X40B2N_DISCR_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2993309@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2993309@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2993309@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R136 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989349@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989349@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989349@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R137 'RESISTOR_RESC1005X40A2N_DISCR_8':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987313@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987313@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987313@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R138 'RESISTOR_RESC1005X40B2N_DISCR_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992597@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992597@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992597@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_RESC1005X40B2N_DISCR_6':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3028241@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3028241@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3028241@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R140 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943155@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943155@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943155@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R141 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943209@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943209@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943209@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R142 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943269@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943269@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943269@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R143 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943321@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943321@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943321@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R144 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943361@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943361@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943361@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R145 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943393@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943393@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943393@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R146 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943453@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943453@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943453@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R147 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943525@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943525@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943525@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R148 'RESISTOR_RESC0603X35B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943729@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943729@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943729@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_RESC1005X40B2N_DISCR_7':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3028225@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3028225@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3028225@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R151 'RESISTOR_RESC1005X40B2N_DISCR_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992317@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992317@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992317@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R152 'RESISTOR_RESC1005X40B2N_DISCR_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992677@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992677@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992677@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RESC1005X40B2N_DISCR_8':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943841@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943841@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943841@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RESC1005X40B2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943857@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943857@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943857@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RESC1005X40B2N_DISCR_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1295894@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1295894@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1295894@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_RESC1005X40B2N_DISC_10':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943981@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943981@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943981@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_RESC1005X40B2N_DISCR_8':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944297@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944297@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944297@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_RESC1005X40B2N_DISCR_6':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941413@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941413@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941413@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_RESC1005X40B2N_DISCR_7':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941397@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941397@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941397@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_RESC1005X40B2N_DISC_11':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942421@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942421@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942421@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_RESC1005X40B2N_DISC_12':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944767@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944767@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944767@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_RESC1005X40B2N_DISC_11':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942553@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942553@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942553@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RESC1005X40B2N_DISCR_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1295910@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1295910@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1295910@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR_RESC1005X40B2N_DISC_11':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942641@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942641@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942641@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_RESC1005X40B2N_DISC_13':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943485@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943485@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943485@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_RESC1005X40B2N_DISC_14':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943793@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943793@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943793@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR_RESC1005X40B2N_DISCR_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944233@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944233@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944233@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR_RESC1005X40B2N_DISCR_5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944691@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944691@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944691@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R351 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1020895@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1020895@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1020895@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R353 'RESISTOR_RESC1005X40B2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3015613@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3015613@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3015613@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R354 'RESISTOR_RESC1005X40A2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3047001@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3047001@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins3047001@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R355 'RESISTOR_RESC1005X40B2N_DISC_14':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3141621@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3141621@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3141621@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R356 'RESISTOR_RESC1005X40B2N_DISC_14':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3147250@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3147250@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3147250@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R357 'RESISTOR_RESC1005X40B2N_DISC_14':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3147274@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3147274@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3147274@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR_RESC1005X40B2N_DISC_11':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942335@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942335@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942335@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'RESISTOR_RESC1608X55A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027783@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027783@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3027783@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RESISTOR_RESC1608X55A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027799@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027799@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3027799@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RESISTOR_RESC1608X55A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027815@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027815@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3027815@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RESISTOR_RESC1608X55A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027831@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027831@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3027831@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RESISTOR_RESC1608X55N_DISCRETE_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1261336@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1261336@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1261336@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'RESISTOR_RESC1608X55N_DISCRETE_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1969248@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1969248@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1969248@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'RESISTOR_RESC1005X40B2N_DISC_10':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1288045@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1288045@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1288045@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'RESISTOR_RESC1005X40B2N_DISC_10':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1288078@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1288078@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1288078@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'RESISTOR_RESC1005X40B2N_DISC_10':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2777306@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2777306@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2777306@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'RESISTOR_RESC1005X40B2N_DISCR_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776826@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776826@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776826@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'RESISTOR_RESC1005X40B2N_DISCR_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027918@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027918@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3027918@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'RESISTOR_RESC1005X40B2N_DISCR_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3027902@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3027902@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins3027902@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776074@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776074@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776074@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776058@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776058@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776058@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776702@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776702@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776702@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2777278@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2777278@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2777278@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'RESISTOR_RESC0603X35B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942877@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942877@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942877@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'RESISTOR_RESC0603X35B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942215@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942215@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942215@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'RESISTOR_RESC0603X35B2N_DISCR_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942375@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942375@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942375@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R87 'RESISTOR_RESC1005X40B2N_DISC_15':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942029@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942029@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942029@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'RESISTOR_RESC0603X35B2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2940977@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2940977@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2940977@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'RESISTOR_RESC0603X35B2N_DISCR_3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941021@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941021@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941021@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'RESISTOR_RESC0603X35B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941505@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941505@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941505@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'RESISTOR_RESC0603X35B2N_DISCR_4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941585@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941585@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941585@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'RESISTOR_RESC1005X40A2N_DISCR_9':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986455@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986455@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986455@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'RESISTOR_RESC1005X40A2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986681@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986681@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986681@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986801@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986801@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986801@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987089@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987089@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987089@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'RESISTOR_RESC1005X40B2N_DISCR_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987241@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987241@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987241@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'RESISTOR_RESC1005X40B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987265@RESISTOR.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987265@resistor.\resistor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987265@resistor.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SWITCH_TACT_V2_SW_1188E1K2V_A2N':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1320096@SWITCH.SWITCH_TACT_V2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1320096@switch.\switch_tact_v2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1320096@switch.\switch_tact_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SWITCH_TACT_V2_SW_1188E1K2V_A2N':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1320130@SWITCH.SWITCH_TACT_V2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1320130@switch.\switch_tact_v2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1320130@switch.\switch_tact_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SWITCH_TACT_V2_SW_1188E1K2V_A_1':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2777426@SWITCH.SWITCH_TACT_V2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2777426@switch.\switch_tact_v2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2777426@switch.\switch_tact_v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_RF_CC1352_QFN48_QFNFC50P700X':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021563@IC_RF.IC_RF_CC1352_QFN48A.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021563@ic_rf.\ic_rf_cc1352_qfn48a.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021563@ic_rf.\ic_rf_cc1352_qfn48a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1500718@IC_RF.IC_RF_CC1352_QFN48B.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1500718@ic_rf.\ic_rf_cc1352_qfn48b.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1500718@ic_rf.\ic_rf_cc1352_qfn48b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U10 'IC_XCVR_SN74AVC4T245_UQFN16_2_Q':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776858@LAUNCHXL-CC2650.IC_XCVR_SN74AVC4T245_UQFN16_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776858@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776858@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'IC_PROC_USB3300_QFN32_QFNWB50P5':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942137@IC_PROC.IC_PROC_USB3300_QFN32.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942137@ic_proc.\ic_proc_usb3300_qfn32.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942137@ic_proc.\ic_proc_usb3300_qfn32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U33 'IC_SWITCH_TS3A24159_SON10_SON50':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986213@IC_SWITCH.IC_SWITCH_TS3A24159_SON10.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986213@ic_switch.\ic_switch_ts3a24159_son10.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986213@ic_switch.\ic_switch_ts3a24159_son10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U34 'IC_LOGIC_SN74LVC2G74_VSSOP8_SOP':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986251@IC_LOGIC.IC_LOGIC_SN74LVC2G74_VSSOP8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986251@ic_logic.\ic_logic_sn74lvc2g74_vssop8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986251@ic_logic.\ic_logic_sn74lvc2g74_vssop8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U35 'IC_ADC_ADS127L01_QFP32_0_QFP50P':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986853@LAUNCHXL-CC1352P1-4.IC_ADC_ADS127L01_QFP32_0.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986853@\launchxl-cc1352p1-4\.\ic_adc_ads127l01_qfp32_0.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986853@\launchxl-cc1352p1-4\.\ic_adc_ads127l01_qfp32_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U36 'IC_OPAMP_INA118U_SO8_SOIC127P60':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987285@IC_OPAMP.IC_OPAMP_INA118U_SO8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987285@ic_opamp.\ic_opamp_ina118u_so8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987285@ic_opamp.\ic_opamp_ina118u_so8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U37 'IC_OPAMP_THS4551_QFN10_QFNFCP50':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2987441@IC_OPAMP.IC_OPAMP_THS4551_QFN10.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2987441@ic_opamp.\ic_opamp_ths4551_qfn10.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2987441@ic_opamp.\ic_opamp_ths4551_qfn10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U38 'IC_SWITCH_TS3A24159_SON10_SON50':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988573@IC_SWITCH.IC_SWITCH_TS3A24159_SON10.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988573@ic_switch.\ic_switch_ts3a24159_son10.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988573@ic_switch.\ic_switch_ts3a24159_son10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U39 'IC_SWITCH_TS3A4751_QFN14_QFNFC4':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988879@IC_SWITCH.IC_SWITCH_TS3A4751_QFN14.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988879@ic_switch.\ic_switch_ts3a4751_qfn14.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988879@ic_switch.\ic_switch_ts3a4751_qfn14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'IC_FLASH_MX25R8035F_USON8_SON50':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1324407@IC_FLASH.IC_FLASH_MX25R8035F_USON8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1324407@ic_flash.\ic_flash_mx25r8035f_uson8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page2_ins1324407@ic_flash.\ic_flash_mx25r8035f_uson8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U40 'IC_REF_REF6025_VSSOP8_SOP65P490':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988919@IC_REF.IC_REF_REF6025_VSSOP8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988919@ic_ref.\ic_ref_ref6025_vssop8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988919@ic_ref.\ic_ref_ref6025_vssop8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U41 'IC_OPAMP_OPA320_SOT23-5_SOT95P2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2989205@IC_OPAMP.IC_OPAMP_OPA320_SOT23-5.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2989205@ic_opamp.\ic_opamp_opa320_sot23-5.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2989205@ic_opamp.\ic_opamp_opa320_sot23-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U42 'IC_PM_TPS79601_SON8_SON65P300X3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2991905@IC_PM.IC_PM_TPS79601_SON8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2991905@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2991905@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U43 'IC_PM_LP5907-1_8_SOT23-5_SOT95P':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992905@IC_PM.IC_PM_LP5907-1_8_SOT23-5.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992905@ic_pm.\ic_pm_lp5907-1_8_sot23-5.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992905@ic_pm.\ic_pm_lp5907-1_8_sot23-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U44 'IC_PM_TPS73101_SOT23-5_SOT95P28':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992935@IC_PM.IC_PM_TPS73101_SOT23-5.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992935@ic_pm.\ic_pm_tps73101_sot23-5.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992935@ic_pm.\ic_pm_tps73101_sot23-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U45 'IC_OPAMP_OPA314_SC70-5_SOT65P21':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2988963@IC_OPAMP.IC_OPAMP_OPA314_SC70-5.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2988963@ic_opamp.\ic_opamp_opa314_sc70-5.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2988963@ic_opamp.\ic_opamp_opa314_sc70-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U46 'IC_PM_TPS79601_SON8_SON65P300X3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2992031@IC_PM.IC_PM_TPS79601_SON8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2992031@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page6_ins2992031@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U47 'IC_PM_TPS259530_WSON8_SON50P200':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3020785@IC_PM.IC_PM_TPS259530_WSON8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3020785@ic_pm.\ic_pm_tps259530_wson8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins3020785@ic_pm.\ic_pm_tps259530_wson8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'IC_PROC_TM4C1294NCPDT_TQFP128_Q':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2940785@IC_PROC.IC_PROC_TM4C1294NCPDT_TQFP128A.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2940785@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128a.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2940785@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944001@IC_PROC.IC_PROC_TM4C1294NCPDT_TQFP128B.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944001@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128b.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944001@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2941629@IC_PROC.IC_PROC_TM4C1294NCPDT_TQFP128C.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2941629@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128c.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2941629@ic_proc.\ic_proc_tm4c1294ncpdt_tqfp128c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+PART_NAME
+ U6 'IC_REF_LM4040_SC70-5_SOT65P210X':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944353@IC_REF.IC_REF_LM4040_SC70-5.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944353@ic_ref.\ic_ref_lm4040_sc70-5.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944353@ic_ref.\ic_ref_lm4040_sc70-5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'IC_PM_TPS79601_SON8_SON65P300X3':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2943947@IC_PM.IC_PM_TPS79601_SON8.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2943947@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2943947@ic_pm.\ic_pm_tps79601_son8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'IC_XCVR_SN74AVC4T245_UQFN16_2_Q':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2775792@LAUNCHXL-CC2650.IC_XCVR_SN74AVC4T245_UQFN16_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2775792@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2775792@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'IC_XCVR_SN74AVC4T245_UQFN16_2_Q':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2776288@LAUNCHXL-CC2650.IC_XCVR_SN74AVC4T245_UQFN16_2.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2776288@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page3_ins2776288@\launchxl-cc2650\.\ic_xcvr_sn74avc4t245_uqfn16_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_XTAL_FC-135N_32.768KHZ_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1020823@CRYSTAL.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1020823@crystal.\crystal.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1020823@crystal.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'XTAL_4PINS_1_3_OSCCC200X160X45-':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS1021055@CRYSTAL.XTAL_4PINS_1_3.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins1021055@crystal.\xtal_4pins_1_3.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins1021055@crystal.\xtal_4pins_1_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y3 'XTAL_4_OSCCC250X320X100-4BN_IC_':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2944707@CRYSTAL.XTAL_4.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2944707@crystal.\xtal_4.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2944707@crystal.\xtal_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y4 'XTAL_4_OSCCC250X320X70-4AN_IC_2':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2942259@CRYSTAL.XTAL_4.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2942259@crystal.\xtal_4.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page4_ins2942259@crystal.\xtal_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y5 'XTAL_GEN_EN_V1_OSCSC254P320X500':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2986307@CRYSTAL.XTAL_GEN_EN_V1.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2986307@crystal.\xtal_gen_en_v1.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page5_ins2986307@crystal.\xtal_gen_en_v1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Z60 'INDUCTOR_INDC1005X60B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2109582@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2109582@inductor.\inductor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2109582@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Z61 'CAPACITOR_CAPC1005X60B2N_DIS_14':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3029995@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3029995@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins3029995@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Z62 'INDUCTOR_INDC1005X60B2N_DISCRET':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS3030565@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins3030565@inductor.\inductor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins3030565@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Z63 'CAPACITOR_CAPC1005X60B2N_DIS_14':;
+
+SECTION_NUMBER 1
+ '@WCS038B.ENERGYTRACE LAUNCHPAD(SCH_1):INS2079186@CAPACITOR.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@wcs038b.\energytrace launchpad\(sch_1):ins2079186@capacitor.\capacitor.normal\(chips)',
+ P_PATH='@wcs038b.\energytrace launchpad\(sch_1):page1_ins2079186@capacitor.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

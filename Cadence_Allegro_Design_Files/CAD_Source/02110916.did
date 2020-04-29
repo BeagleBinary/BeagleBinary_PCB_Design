@@ -1,0 +1,11 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v17-2-50 made 2016/05/25 at 18:32:05
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : \\prism.nas.gatech.edu\kplatt8\ECE\Downloads\PCB_design_(2.06.2020)-20200206T145153Z-001\PCB_design_(2.06.2020)\CAD_Source\WCS038B.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : \\prism.nas.gatech.edu\kplatt8\ECE\Downloads\PCB_design_(2.06.2020)-20200206T145153Z-001\PCB_design_(2.06.2020)\CAD_Source\monitor.sts
+select_product  Cadence SiP Layout XL

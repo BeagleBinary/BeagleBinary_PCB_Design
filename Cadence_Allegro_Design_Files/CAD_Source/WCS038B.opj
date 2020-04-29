@@ -1,0 +1,207 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[03/05/20]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\wcs038b.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Netlist_TAB "0")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "\\prism.nas.gatech.edu\kplatt8\ECE\Downloads\PCB_design_(2.06.2020)-20200206T145153Z-001\PCB_design_(2.06.2020)\CAD_Source\drc.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "\\prism.nas.gatech.edu\eshuvaev3\ECE\Desktop\PCB_design_(3.3.2020)\PCB_design_(2.13.2020)\CAD_Source\version\WCS038B.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\wcs038b.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\wcs038b.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\wcs038b.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\wcs038b1.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\wcs038b1.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\drc.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (105164-0001
+      (FullPartName "105164-0001.Normal")
+      (LibraryName
+         "\\PRISM.NAS.GATECH.EDU\ESHUVAEV3\ECE\DESKTOP\PCB_DESIGN_(3.3.2020)\PCB_DESIGN_(2.13.2020)\LIBRARY\105164-0001\105164-0001.OLB")
+      (DeviceIndex "0"))
+    (292303-1
+      (FullPartName "292303-1.Normal")
+      (LibraryName
+         "\\PRISM.NAS.GATECH.EDU\KPLATT8\ECE\DOWNLOADS\292303-1\292303-1.OLB")
+      (DeviceIndex "0"))
+    (CONN_USB_MICRO_B_2MH
+      (FullPartName "CONN_USB_MICRO_B_2MH.Normal")
+      (LibraryName "X:\SYMBOLS\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\APPL\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (1818
+      (FullPartName "1818.Normal")
+      (LibraryName
+         "\\PRISM.NAS.GATECH.EDU\KPLATT8\ECE\DOWNLOADS\61303621121 (2)\61303621121.OLB")
+      (DeviceIndex "0"))
+    (218-2LPSTRF
+      (FullPartName "218-2LPSTRF.Normal")
+      (LibraryName
+         "\\PRISM.NAS.GATECH.EDU\KPLATT8\ECE\DOWNLOADS\218-2LPSTRF (2)\218-2LPSTRF.OLB")
+      (DeviceIndex "0"))
+    (SWITCH_TACT_V2
+      (FullPartName "SWITCH_TACT_V2.Normal")
+      (LibraryName "X:\SYMBOLS\SWITCH.OLB")
+      (DeviceIndex "0"))
+    (3PIN_POWER_JACK
+      (FullPartName "3PIN_POWER_JACK.Normal")
+      (LibraryName
+         "\\PRISM.NAS.GATECH.EDU\KPLATT8\ECE\DOWNLOADS\PJ-102A (1)\PJ-102A.OLB")
+      (DeviceIndex "0"))
+    (IC_SWITCH_TS3A24159_SON10
+      (FullPartName "IC_SWITCH_TS3A24159_SON10.Normal")
+      (LibraryName "X:\SYMBOLS\IC_SWITCH.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "edshu")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\wcs038b.dsn")
+      (Path "Design Resources" ".\wcs038b.dsn" "EnergyTrace LaunchPad")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Select "Design Resources" ".\wcs038b.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 675"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1254 24 693")
+        (Scroll "0 329")
+        (Zoom "102")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\EDSHU\DOCUMENTS\GATECH\2020 SPRING\4012 SENIOR PROJECT\PCB_DESIGN_(3.12.2020)\CAD_SOURCE\WCS038B.DSN")
+      (Schematic "EnergyTrace LaunchPad")
+      (Page "NEW_GT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1254 24 693")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\EDSHU\DOCUMENTS\GATECH\2020 SPRING\4012 SENIOR PROJECT\PCB_DESIGN_(3.12.2020)\CAD_SOURCE\WCS038B.DSN")
+      (Schematic "EnergyTrace LaunchPad")
+      (Page "6_EnergyTrace Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1254 24 693")
+        (Scroll "0 200")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\EDSHU\DOCUMENTS\GATECH\2020 SPRING\4012 SENIOR PROJECT\PCB_DESIGN_(3.12.2020)\CAD_SOURCE\WCS038B.DSN")
+      (Schematic "EnergyTrace LaunchPad")
+      (Page "5_EnergyTrace"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1254 24 693")
+        (Scroll "-162 -3")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\EDSHU\DOCUMENTS\GATECH\2020 SPRING\4012 SENIOR PROJECT\PCB_DESIGN_(3.12.2020)\CAD_SOURCE\WCS038B.DSN")
+      (Schematic "EnergyTrace LaunchPad")
+      (Page "4_XDS110")))
+  (LastUsedLibraryBrowseDirectory
+     "\\prism.nas.gatech.edu\eshuvaev3\ECE\Desktop\PCB_design_(3.3.2020)\PCB_design_(2.13.2020)\library\105164-0001")
+  (ISPCBBASICLICENSE "false"))

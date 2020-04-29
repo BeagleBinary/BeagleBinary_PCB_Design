@@ -1,0 +1,18 @@
+\t (00:00:13) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Wed Apr 29 12:50:54 2020
+\t (00:00:13)         Host=LAPTOP-BT2F1KN4 User=edshu Pid=25616 CPUs=8
+\t (00:00:13) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\edshu\Documents\GaTech\2020 Spring\4012 Senior Project\PCB_design_(3.12.2020)\CAD_Source\WCS038B.brd
+\t (00:00:13) 
+   (00:00:14) Loading axlcore.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:18) fillin yes 
+\i (00:00:19) fillin yes 
+\i (00:00:20) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged WCS038B
+\d (00:00:20) Design opened: C:/Users/edshu/Documents/GaTech/2020 Spring/4012 Senior Project/PCB_design_(3.12.2020)/CAD_Source/WCS038B.brd
+\i (00:00:21) trapsize 2646
+\i (00:00:21) trapsize 2939
+\i (00:00:21) trapsize 1512
+\i (00:00:21) trapsize 1512
+\i (00:00:22) generaledit 
+\i (00:00:24) exit 
+\t (00:00:25)     Journal end - Wed Apr 29 12:51:06 2020

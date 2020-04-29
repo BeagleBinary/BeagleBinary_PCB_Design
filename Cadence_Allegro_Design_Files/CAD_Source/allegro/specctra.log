@@ -1,0 +1,20 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Thu Feb 27 11:02:31 2020
+# 
+# Allegro PCB Router v17-2-50 made 2016/05/25 at 18:32:05
+# Running on: 1446ece026, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(2.14.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro\WCS038B.dsn
+# Batch File Name: pasde.do
+# Did File Name: //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(2.14.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/specctra.did
+# Current time = Thu Feb 27 11:02:31 2020
+# PCB //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(2.14.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro
+# <<ERROR:>> Error in file //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(2.14.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro\WCS038B.dsn, line 2: token 3 = 2.14.2020
+# (content): //PRISM.NAS.GATECH.EDU/ESHUVAEV3/ECE/DESKTOP/PCB_DESIGN_(2.14.2020)/PCB_DESIGN_(2.13.2020)/CAD_SOURCE/allegro/WCS038B.brd

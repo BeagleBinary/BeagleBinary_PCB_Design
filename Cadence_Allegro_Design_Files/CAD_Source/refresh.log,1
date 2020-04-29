@@ -1,0 +1,81 @@
+Fri Feb 14 14:34:37 2020				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Fri Feb 14 14:34:37 2020
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : WCS038B1.brd                                  )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Fri Feb 14 14:34:39 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Feb 14 14:34:39 2020				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = '//prism.nas.gatech.edu/eshuvaev3/ECE/Desktop/PCB_design_(2.13.2020)-20200206T145153Z-001/PCB_design_(2.13.2020)/C~
+AD_Source/WCS038B1.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'YES'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/ESHUVA~1/AppData/Local/Temp/#Taaaaae11864.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/appl/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/appl/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/appl/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/appl/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/appl/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/appl/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+
+'TE_292303-1'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'TE_292303-1' symbol unable to find in directory search path.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+
+Completed refreshing symbols; some symbols may not have been updated due to warnings or errors.
+       0  errors detected.
+       1  warnings detected.

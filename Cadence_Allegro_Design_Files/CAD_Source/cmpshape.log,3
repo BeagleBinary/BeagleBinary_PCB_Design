@@ -1,0 +1,15 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : WCS038B.brd                                   )
+(    Software Version : 17.2S008                                      )
+(    Date/Time        : Thu Jan 30 10:41:14 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(BOARD GEOMETRY)
+Find smallest gap failed. Be cautious, this may not be an error
+Retrieve closedLoop with segments (nil) failed
+A total of 1 shapes were created.

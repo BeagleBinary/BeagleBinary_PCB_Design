@@ -1,0 +1,85 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : WCS038B.brd                                   )
+(    Software Version : 17.2S007                                      )
+(    Date/Time        : Thu Mar 12 10:31:08 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.2000  P        T01            0.000000     0.000000
+         0.2010  P        T02            0.000000     0.000000
+         0.7000  P        T03            0.000000     0.000000
+         0.9200  P        T04            0.000000     0.000000
+         1.0000  P        T05            0.000000     0.000000
+         1.0500  P        T06            0.000000     0.000000
+         1.1000  P        T07            0.000000     0.000000
+         2.3000  P        T08            0.000000     0.000000
+         3.2000  P        T09            0.000000     0.000000
+         0.8990  N        T10            0.000000     0.000000
+         1.0000  N        T11            0.000000     0.000000
+         3.2000  N        T12            0.000000     0.000000
+
+
+ Drill files being output to directory '//prism.nas.gatech.edu/eshuvaev3/ECE/Desktop/PCB_design_(3.10.2020)/CAD_Source/allegro' ...
+
+
+
+     'ATILPD-1-4.drl' created for holes connecting TOP and BOTTOM
+     ------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   0.2000    0.0000/  0.0000      PLATED       1257
+     T02    2.   0.2010    0.0000/  0.0000      PLATED         25
+     T03    3.   0.7000    0.0000/  0.0000      PLATED          2
+     T04    4.   0.9200    0.0000/  0.0000      PLATED          4
+     T05    5.   1.0000    0.0000/  0.0000      PLATED          3
+     T06    6.   1.0500    0.0000/  0.0000      PLATED         75
+     T07    7.   1.1000    0.0000/  0.0000      PLATED         73
+     T08    8.   2.3000    0.0000/  0.0000      PLATED          2
+     T09    9.   3.2000    0.0000/  0.0000      PLATED          4
+     T10   10.   0.8990    0.0000/  0.0000  NON_PLATED          6
+     T11   11.   1.0000    0.0000/  0.0000  NON_PLATED          3
+     T12   12.   3.2000    0.0000/  0.0000  NON_PLATED          2
+
+     ---- Total holes:                                       1456
+
+     ---- Total head travel:              43.07 feet (13.13 meters)
+

@@ -1,0 +1,256 @@
+Date and Time : 02/13/20 10:17:06
+
+--------------------------------------------------
+Checking Schematic: EnergyTrace LaunchPad
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 6_EnergyTrace Power  (238.76, 190.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U42,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 6_EnergyTrace Power  (106.68, 83.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U42,GND/TAB  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 6_EnergyTrace Power  (106.68, 86.36) 
+WARNING(ORCAP-1829): Possible pin type conflict U46,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 6_EnergyTrace Power  (259.08, 83.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U46,GND/TAB  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 6_EnergyTrace Power  (259.08, 86.36) 
+WARNING(ORCAP-1829): Possible pin type conflict U43,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 6_EnergyTrace Power  (105.41, 187.96) 
+WARNING(ORCAP-1829): Possible pin type conflict U44,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 6_EnergyTrace Power  (254.00, 187.96) 
+WARNING(ORCAP-1829): Possible pin type conflict Y5,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (193.04, 48.26) 
+WARNING(ORCAP-1829): Possible pin type conflict U34,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (231.14, 55.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U33,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (43.18, 63.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U33,EGP  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (43.18, 66.04) 
+WARNING(ORCAP-1829): Possible pin type conflict U36,V-  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (81.28, 109.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U37,VS-  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (182.88, 111.76) 
+WARNING(ORCAP-1829): Possible pin type conflict U35,DGND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (276.86, 124.46) 
+WARNING(ORCAP-1829): Possible pin type conflict U35,AGND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (276.86, 129.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U35,AGND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (276.86, 132.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U38,COM2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (43.18, 162.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U38,NC2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (73.66, 162.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U38,NO2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (73.66, 165.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U38,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (73.66, 170.18) 
+WARNING(ORCAP-1829): Possible pin type conflict U38,EGP  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (73.66, 172.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U45,V-  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (40.64, 220.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U40,GND_F  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (256.54, 223.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U40,GND_S  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (256.54, 226.06) 
+WARNING(ORCAP-1829): Possible pin type conflict U41,V-  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (347.98, 228.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U39,COM4  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (88.90, 236.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U39,NO4  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (119.38, 236.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U39,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (119.38, 241.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U8,1A2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (322.58, 71.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U8,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 81.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U8,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 83.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U9,2B1  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 137.16) 
+WARNING(ORCAP-1829): Possible pin type conflict U9,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 144.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U9,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 147.32) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,1A2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (322.58, 198.12) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,2B2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 203.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,2A2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (322.58, 203.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 208.28) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 210.82) 
+WARNING(ORCAP-1829): Possible pin type conflict CR8,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (71.12, 241.30) 
+WARNING(ORCAP-1829): Possible pin type conflict CR7,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (185.42, 241.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 2_Peripherals  (165.10, 271.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,EGP  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 2_Peripherals  (165.10, 274.32) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (132.08, 157.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,EGP  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (81.28, 142.24) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (137.16, 157.48) 
+WARNING(ORCAP-1829): Possible pin type conflict FL3,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (292.10, 134.62) 
+WARNING(ORCAP-1829): Possible pin type conflict FL3,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (292.10, 137.16) 
+WARNING(ORCAP-1829): Possible pin type conflict FL3,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (292.10, 139.70) 
+WARNING(ORCAP-1829): Possible pin type conflict J7,3  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (322.58, 88.90) 
+WARNING(ORCAP-1829): Possible pin type conflict J7,2  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (322.58, 93.98) 
+WARNING(ORCAP-1829): Possible pin type conflict J7,5  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (307.34, 93.98) 
+WARNING(ORCAP-1829): Possible pin type conflict J7,4  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 1_RF  (307.34, 88.90) 
+WARNING(ORCAP-1829): Possible pin type conflict J8,2  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, NEW_GT  (22.86, 167.64) 
+WARNING(ORCAP-1829): Possible pin type conflict J8,3  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, NEW_GT  (22.86, 165.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U47,EGP  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (25.40, 236.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (152.40, 165.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (152.40, 162.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U7,GND/TAB  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (160.02, 233.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U47,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (25.40, 233.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U7,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (160.02, 231.14) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (22.86, 167.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,GNDA  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (340.36, 116.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (340.36, 127.00) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (340.36, 124.46) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (340.36, 121.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (340.36, 134.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (340.36, 132.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,GND  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (340.36, 129.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U35,DOUT  Output Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (320.04, 106.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,PE5/AIN8  Bidirectional Connected to Output
+                    EnergyTrace LaunchPad, 4_XDS110  (246.38, 91.44) 
+ERROR(ORCAP-1628): Possible pin type conflict VCM  Power Connected to Output
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (363.22, 220.98) 
+ERROR(ORCAP-1628): Possible pin type conflict U41,OUT  Output Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (355.60, 220.98) 
+ERROR(ORCAP-1628): Possible pin type conflict ET_VREF  Power Connected to Output
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (314.96, 203.20) 
+ERROR(ORCAP-1628): Possible pin type conflict U40,OUT_F  Output Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (287.02, 208.28) 
+WARNING(ORCAP-1829): Possible pin type conflict LS_VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (93.98, 48.26) 
+WARNING(ORCAP-1829): Possible pin type conflict U33,COM1  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (73.66, 45.72) 
+WARNING(ORCAP-1829): Possible pin type conflict U33,COM2  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (73.66, 55.88) 
+WARNING(ORCAP-1829): Possible pin type conflict U8,VCCB  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 50.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U9,VCCB  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 114.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,VCCB  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (297.18, 177.80) 
+WARNING(ORCAP-1829): Possible pin type conflict CR7,VCC  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (149.86, 241.30) 
+WARNING(ORCAP-1829): Possible pin type conflict TARGET_VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (83.82, 144.78) 
+WARNING(ORCAP-1829): Possible pin type conflict U38,NC1  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 5_EnergyTrace  (73.66, 152.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,XO  Output Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (152.40, 127.00) 
+WARNING(ORCAP-1829): Possible pin type conflict Y4,3  Bidirectional Connected to Output
+                    EnergyTrace LaunchPad, 4_XDS110  (182.88, 111.76) 
+WARNING(ORCAP-1829): Possible pin type conflict XDS_VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (350.52, 167.64) 
+WARNING(ORCAP-1829): Possible pin type conflict U8,VCCA  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (322.58, 50.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U9,VCCA  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (322.58, 114.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,VCCA  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 3_Debugger Interface  (322.58, 177.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,VDD3.3  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 119.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,VDD3.3  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 121.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDDA  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 121.92) 
+WARNING(ORCAP-1829): Possible pin type conflict U7,OUT  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (177.80, 215.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U7,OUT  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (177.80, 218.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,REG_EN  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 4_XDS110  (152.40, 132.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,VDD3.3  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 116.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,VDD3.3  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 114.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 93.98) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 88.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 91.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 86.36) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 83.82) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 106.68) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 104.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 101.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 96.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 99.06) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 109.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 116.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 114.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,VDD  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (370.84, 111.76) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,DIR  Output Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 134.62) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,PP3  Bidirectional Connected to Output
+                    EnergyTrace LaunchPad, 4_XDS110  (289.56, 154.94) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,NXT  Output Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 132.08) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,PP2  Bidirectional Connected to Output
+                    EnergyTrace LaunchPad, 4_XDS110  (289.56, 152.40) 
+WARNING(ORCAP-1829): Possible pin type conflict Y3,3  Bidirectional Connected to Output
+                    EnergyTrace LaunchPad, 4_XDS110  (292.10, 243.84) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,OSC1  Output Connected to Bidirectional
+                    EnergyTrace LaunchPad, 4_XDS110  (307.34, 228.60) 
+WARNING(ORCAP-1829): Possible pin type conflict USBDP  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, NEW_GT  (10.16, 88.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,DP  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 149.86) 
+WARNING(ORCAP-1829): Possible pin type conflict USBDM  Power Connected to Bidirectional
+                    EnergyTrace LaunchPad, NEW_GT  (20.32, 88.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U15,DM  Bidirectional Connected to Power
+                    EnergyTrace LaunchPad, 4_XDS110  (104.14, 152.40) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+ERROR(ORCAP-1592): Bus has no name and therefore defines no signals. N2941179 
+                    EnergyTrace LaunchPad, 4_XDS110  (327.66, 43.18) 
